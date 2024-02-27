@@ -1,0 +1,56 @@
+#jupi{
+    background-color: chocolate;
+}
+
+#jupi:hover{
+    background-color: rgb(181, 181, 37);
+    color: black;
+    border-color: black;
+}
+
+#satu{
+    background-color: rgb(236, 160, 38);
+}
+
+#satu:hover{
+    background-color: brown;
+    color: rgb(241, 241, 105);
+    border-color: black;
+}
+
+#ura{
+    background-color: aqua;
+    color: black;
+}
+
+#ura:hover{
+    background-color: rgb(61, 61, 142);
+    color: azure;
+    border-color: black;
+}
+
+#nep{
+    background-color: rgb(41, 81, 167);
+}
+
+#nep:hover{
+    background-color: rgb(15, 79, 79);
+    border-color: black;
+}
+
+#j{
+    background-color: rgb(207, 169, 122);
+}
+
+#s{
+    background-color: rgb(200, 131, 42);
+}
+
+#u{
+    background-color: rgba(58, 240, 179, 0.591);
+}
+
+#n{
+    background-color: rgb(34, 98, 98);
+    color: azure;
+}
