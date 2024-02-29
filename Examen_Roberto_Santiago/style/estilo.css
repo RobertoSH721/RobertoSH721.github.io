@@ -1,0 +1,85 @@
+#titulo{
+    text-align: center;
+}
+
+.comando{
+    color: green;
+    background-color: black;
+}
+
+#img{
+    width: 200px;
+}
+
+#d1{
+    background-color: rgb(73, 200, 212);
+}
+
+#b{
+    color: azure;
+}
+
+#c{
+    text-align: center;
+}
+
+#Lu{
+    background-color: blue;
+    border-color: black;
+}
+
+#Lu:hover{
+    background-color: white;
+    color: blue;
+    border-color: black;
+}
+
+#Luc{
+    background-color: rgba(0, 255, 255, 0.454);
+}
+
+#U{
+    background-color: rgb(219, 106, 7);
+    color: black;
+    border-color: black;
+}
+
+#U:hover{
+    background-color: black;
+    color: rgb(219, 106, 7);
+    border-color: black;
+}
+
+#Uc{
+    background-color: rgba(121, 25, 98, 0.833);
+}
+
+#Ku{
+    background-color: rgb(71, 165, 223);
+    color: black;
+}
+
+#Ku:hover{
+    background-color: black;
+    color: rgb(71, 165, 223);
+    border-color: rgb(71, 165, 223);
+}
+
+#Kuc{
+    background-color: rgb(117, 221, 140);
+}
+
+#Xu{
+    background-color: rgb(26, 172, 101);
+    color: black;
+}
+
+#Xu:hover{
+    background-color: black;
+    color:  rgb(26, 172, 101);
+    border-color:  rgb(26, 172, 101);
+}
+
+#Xuc{
+    background-color: rgb(97, 177, 239);
+}
