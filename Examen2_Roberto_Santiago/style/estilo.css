@@ -1,0 +1,33 @@
+body{
+    
+    
+    background-color: whitesmoke;
+}
+
+#co{
+    background-color: rgba(52, 151, 110, 0.8); 
+    border: 2px solid black; 
+    margin-top: 2rem;
+    text-align: center;
+    color: #e4d9d0; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+}
+
+#co img{
+    max-width: 400px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.co2{
+    background-color: lightsteelblue; 
+    width:800px; 
+    height:600px; 
+    border: solid turquoise;
+    border-width: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
