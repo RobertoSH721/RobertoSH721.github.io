@@ -1,0 +1,31 @@
+body {
+    background-image: url("/Diagrama_MMU_con_gojs/imagenes/fondo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;    
+}
+
+.co{
+    background-color: rgba(214, 202, 146, 0.8); 
+    border: 10px solid black; 
+    margin-top: 2rem;
+    text-align: center;
+    color: black; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+}
+
+.co img{
+    max-width: 400px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.co2{
+    background-color: rgba(101, 154, 222, 0.265); 
+    border: 6px solid black; 
+    margin-top: 4rem;
+    text-align: center;
+}
