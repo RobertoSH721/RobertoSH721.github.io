@@ -1,0 +1,56 @@
+body {
+    background-image: url("/Reporte_SO/imagenes/retropie.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;    
+}
+
+.co{
+    background-color: rgba(101, 222, 143, 0.265); 
+    border: 10px solid black; 
+    margin-top: 2rem;
+    text-align: center;
+    color: rgb(253, 247, 247); 
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+}
+
+.co img{
+    max-width: 400px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.co2{
+    background-color: rgb(101, 222, 143);
+    border: 6px solid black; 
+    margin-top: 4rem;
+    text-align: center;
+}
+
+.co3{
+    background-color: rgb(21, 72, 96);
+    border: 6px black; 
+    margin-top: 3rem;
+    text-align: center;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#titulo{
+    color: rgb(240, 80, 31);
+}
+
+#texto{
+    color: rgba(202, 140, 34, 0.842);
+}
+
+#text1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    text-align: center;
+    color: azure;
+}
